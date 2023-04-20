@@ -3,6 +3,7 @@
     text-align: center;
     background-color: white;
     width: 320px;
+    box-shadow: 0 25px 25px rgba(0, 0, 0, 0.0477);
 }
 
 .qr-code-container img {
