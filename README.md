@@ -24,6 +24,11 @@ Your challenge is to build out this QR code component and get it looking as clos
 
 ![](./images/result-desktop.png)
 
+### Links
+
+- Solution URL: [See source code](https://github.com/ClemFRontend/qr-code-component)
+- Live Site URL: [qr-code-component-kappa-livid.vercel.app](https://qr-code-component-kappa-livid.vercel.app)
+
 
 ## My process
 
