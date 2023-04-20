@@ -1,0 +1,19 @@
+.qr-code-container {
+    border-radius: 20px;
+    text-align: center;
+    background-color: white;
+    width: 320px;
+}
+
+.qr-code-container img {
+    border-radius: 10px;
+    margin-top: 16px;
+}
+
+.qr-code-subcontainer {
+    padding: 24px 16px 40px 16px ;
+}
+
+.qr-code-container p {
+    padding: 16px 16px 0 16px;
+}
