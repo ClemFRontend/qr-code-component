@@ -5,7 +5,10 @@ import QRCodeCard from './components/QRCodeCard/QRCodeCard';
 function App() {
   return (
     <>
-      <QRCodeCard />
+    <header></header>
+      <main>
+        <QRCodeCard />
+      </main>
       <Footer />
     </>
   );
