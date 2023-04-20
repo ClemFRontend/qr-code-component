@@ -76,3 +76,7 @@ p {
   line-height: 19px;
   letter-spacing: 0.1875px;
 }
+
+.hide {
+  display: none;
+}
